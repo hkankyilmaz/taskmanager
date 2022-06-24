@@ -120,6 +120,9 @@
   font-size: 25px;
   cursor: pointer;
 }
+.headingText {
+  display: inline-block;
+}
 
 @media (max-width: 1100px) {
   .todos {
@@ -138,5 +141,11 @@
   .todos {
     width: 95%;
     margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  .headingText {
+    display: none;
   }
 }
