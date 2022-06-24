@@ -34,7 +34,7 @@ const TodoList: React.FC<props> = ({
             {...provided.droppableProps}
           >
             <span className="todos__heading">
-              Active Tasks{" "}
+              Active <div className="headingText">Tasks</div>
               <input
                 className="find-input"
                 onChange={(e) => {
@@ -88,7 +88,7 @@ const TodoList: React.FC<props> = ({
             }`}
           >
             <span className="todos__heading">
-              Completed Tasks{" "}
+              Completed <div className="headingText">Tasks</div>
               <input
                 className="find-input"
                 onChange={(e) => {
