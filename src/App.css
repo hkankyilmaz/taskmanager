@@ -1,4 +1,33 @@
-* {
-    margin: 0;
-    padding: 0;
+.App {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: url(./images/art.jpg);
+  background-position: center;
+  background-size: cover;
+  /* background-color: rgb(47, 116, 192, 0.85); */
+  /* background-image: linear-gradient(
+    to right,
+    rgb(47, 116, 192, 0.9),
+    rgb(47, 116, 192, 0.7)
+  ); */
+}
+
+.heading {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 30px 0;
+  color: #fff;
+  z-index: 1;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .heading {
+    margin: 15px 0;
+    font-size: 35px;
   }
+}
