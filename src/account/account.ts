@@ -10,5 +10,10 @@ export const auth = {
       username: "david",
       password: "123456",
     },
+    {
+      name: "İbrahim,
+      username: "iboo
+      password: "123456",
+    },
   ],
 };
