@@ -1,6 +1,6 @@
 # Movie App
 
-🔸 Search for the movies you want and add them to your favourites. <br>
+🔸 Create to-do list that include task, responsibility... <br>
 🔸 This web app built with using [React](https://reactjs.org/). <br>
 🔸 You can preview [here](https://taskmanager-six.vercel.app/) / id:jack password:123456 /
 
