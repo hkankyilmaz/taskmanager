@@ -1,4 +1,4 @@
-# Movie App
+# Task Manager
 
 🔸 Create to-do list that include task, responsibility... <br>
 🔸 This web app built with using [React](https://reactjs.org/). <br>
