@@ -2,7 +2,7 @@
 
 🔸 Create to-do list that include task, responsibility... <br>
 🔸 This web app built with using [React](https://reactjs.org/). <br>
-🔸 You can preview [here](https://taskmanager-six.vercel.app/) / id:Jack password:123456 /
+🔸 You can preview [here](https://taskmanager-six.vercel.app/) / id:jj123K password:123456 /
 
 ## 💻 Setup <br>
 
